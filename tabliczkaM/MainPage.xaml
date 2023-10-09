@@ -30,6 +30,7 @@
                 Text="Tabliczka mnożenia"
                 HorizontalOptions="Center"
                 x:Name="lblTabliczka"
+                FontFamily="Courier New"
                 FontSize="24"/>
 
         </VerticalStackLayout>

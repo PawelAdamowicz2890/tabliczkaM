@@ -37,6 +37,7 @@
         }
         private void btnResetClicked(object sender, EventArgs e)
         {
+            s = "Tabliczka mnożenia";
             lblTabliczka.Text = s;
             SemanticScreenReader.Announce(lblTabliczka.Text);
         }
